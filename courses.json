@@ -1,0 +1,37 @@
+[
+    {
+        "course": "IST 359",
+        "title": "Introduction to Database Management Systems",
+        "credits": "(3 Credits)",
+        "description": "Learn relational database basics, including design and development. This course covers SQL for creating tables, querying data, managing metadata, and touches on advanced SQL. It also focuses on database design using ER diagrams and data normalization to optimize relational databases.",
+        "date": "2026-11-10"
+    },
+    {
+        "course": "MAT 221",
+        "title": "Elementary Probability and Statistics I",
+        "credits": "(4 Credits)",
+        "description": "First of a two-course sequence. For students in fields that emphasize quantitative methods. Probability, design of experiments, sampling theory, introduction of computers for data management, evaluation of models, and estimation of parameters.",
+        "date": "2026-11-10"
+    },
+    {
+        "course": "IST 414",
+        "title": "Data-Driven Inquiry",
+        "credits": "(3 Credits)",
+        "description": "Theories and techniques for real-world research into human phenomena across various contexts (business, society, friendships, politics). Learn about asking good questions, matching methods with questions, designing ethical studies, and gathering and analyzing both qualitative and quantitative data.",
+        "date": "2026-11-10"
+    },
+    {
+        "course": "MAT 222",
+        "title": "Elementary Probability and Statistics II",
+        "credits": "(3 Credits)",
+        "description": "Continuation of MAT\u00a0221. Further methods of statistical analysis emphasizing statistical reasoning and data analysis using statistical software. Basic concepts of hypothesis testing, estimation and confidence intervals, t-tests and chi-square tests, linear regression, analysis of variance.",
+        "date": "2026-11-10"
+    },
+    {
+        "course": "IST 101",
+        "title": "First-Year Forum",
+        "credits": "(1 Credit)",
+        "description": "Transition to life at the iSchool and Syracuse University, and become more familiar with the information field. Explore the range of possibilities that our undergraduate degree is designed to provide.",
+        "date": "2026-11-10"
+    }
+]
